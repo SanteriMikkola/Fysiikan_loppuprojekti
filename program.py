@@ -10,8 +10,8 @@ import altair as alt
 # ASETUKSET
 #
 
-LOC_DATA_PATH = "https://raw.githubusercontent.com/SanteriMikkola/Fysiikan_loppuprojekti/main/Location.csv"
-ACC_DATA_PATH = "https://raw.githubusercontent.com/SanteriMikkola/Fysiikan_loppuprojekti/main/Linear Acceleration.csv"
+LOC_DATA_PATH = "https://raw.githubusercontent.com/SanteriMikkola/Fysiikan_loppuprojekti/refs/heads/main/Location.csv"
+ACC_DATA_PATH = "https://raw.githubusercontent.com/SanteriMikkola/Fysiikan_loppuprojekti/refs/heads/main/Linear%20Acceleration.csv"
 
 # Leikataan pois alun seisoskelu ja siirretään aika alkamaan nollasta.
 START_TIME = 100.0
